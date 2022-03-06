@@ -1,2 +1,3 @@
 # testing
-testing_repo
+testing_repo Learning Git
+
